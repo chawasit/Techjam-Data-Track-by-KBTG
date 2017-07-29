@@ -11,6 +11,8 @@
 4/account_transaction.csv
 5/tj_05_credit_card_transaction.csv
 *.csv
+*.txt
+*.pkl
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
